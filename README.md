@@ -1,2 +1,2 @@
-# skill-developoment
-local skill developement and employment information portal
+# skill-development
+local skill development and employment information portal
